@@ -10,3 +10,4 @@ def get_ip_address(domain):
 if __name__ == "__main__":
     domain = input("Enter the domain name: ")
     get_ip_address(domain)
+#hllokfnjkfnjsfnvkjsnfvkjsn
